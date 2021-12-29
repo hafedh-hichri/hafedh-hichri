@@ -16,4 +16,5 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hihcri/)](https://www.linkedin.com/in/hafedh-hihcri/) [![Twitter Badge](https://img.shields.io/badge/-@hafedh46918081-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hafedh46918081)](https://twitter.com/hafedh46918081)
 
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=hafedh-hichri&count_private=true&show_icons=true&theme=github_dark)
+
 ![youtube_gif](https://i.pinimg.com/originals/7e/2a/eb/7e2aeb1567e91bfc2404cecca6aceecd.gif)
