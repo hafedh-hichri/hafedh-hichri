@@ -6,7 +6,7 @@
 
 ### Hi Visitor 👋
 
-- 🔭 I’m currently working on **deep learning | GANS ** 
+- 🔭 I’m currently working on **deep learning | GANS** 
 - 🌱 I’m currently learning **GANS**
 - 👯 I’m looking to collaborate on **anything**
 - 🤔 I’m looking for help with **GANS**
