@@ -1,8 +1,8 @@
 <p align="center" >
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!;I+am+Hafedh+Hichri...;Welcome+to+my+profiles!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!;I+am+Hafedh+Hichri...&center=true&size=30">
   </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=smart+AI+in+human+body;Rebooting+System+.+.+.+.&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Rebooting+System...;smart+AI+in+human+body&center=true&size=30">
  </p>
 
 
