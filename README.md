@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm hafedh</h1>
-<h3 align="center">smart AI in human body</h3>
+<p align="center" >
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!;I+am+Hafedh+Hichri...;Welcome+to+my+profiles!&center=true&size=30">
+  </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=smart+AI+in+human+body;Rebooting+System+.+.+.+.&center=true&size=30">
+ </p>
+
 
 
 ![](https://img.shields.io/github/followers/hafedh-hichri?color=green&logo=github)
@@ -40,3 +45,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafedh-hichri&theme=react&border=61dafb&hide_border=true" alt="hafedh-hichri" /></p>
 
+
+<img src="https://activity-graph.herokuapp.com/graph?username=hafedh-hichri&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
