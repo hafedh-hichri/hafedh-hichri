@@ -17,4 +17,4 @@
 
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=hafedh-hichri&count_private=true&show_icons=true&theme=github_dark)
 
-![youtube_gif](https://i.pinimg.com/originals/7e/2a/eb/7e2aeb1567e91bfc2404cecca6aceecd.gif)
+
