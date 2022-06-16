@@ -12,7 +12,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/hafedh46918081" target="blank"><img src="https://img.shields.io/twitter/follow/hafedh46918081?logo=twitter&style=for-the-badge" alt="hafedh46918081" /></a> </p>
+<p align="left"> <a href="https://twitter.com/isshafedh" target="blank"><img src="https://img.shields.io/twitter/follow/isshafedh?logo=twitter&style=for-the-badge" alt="isshafedh" /></a> </p>
 
 - 🔭 I’m currently working on **deep learning | GANS**
 
@@ -24,13 +24,13 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **[![Linkedin Badge](https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hihcri/)](https://www.linkedin.com/in/hafedh-hihcri/) [![Twitter Badge](https://img.shields.io/badge/-@hafedh46918081-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hafedh46918081)](https://twitter.com/hafedh46918081)**
+- 📫 How to reach me **[![Linkedin Badge](https://img.shields.io/badge/-hafedh-hichri?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafedh-hihcri/)](https://www.linkedin.com/in/hafedh-hihcri/) [![Twitter Badge](https://img.shields.io/badge/-@isshafedh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/isshafedh)](https://twitter.com/isshafedh)**
 
 - ⚡ Fun fact **if you water water it grows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hafedh46918081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafedh46918081" height="30" width="40" /></a>
+<a href="https://twitter.com/isshafedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isshafedh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hafedh-hichri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafedh-hichri" height="30" width="40" /></a>
 </p>
 
